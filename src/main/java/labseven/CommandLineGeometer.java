@@ -5,7 +5,7 @@ import java.io.FileNotFoundException;
 import java.util.Date;
 import java.util.Scanner;
 
-// TODO: All all of the required JavaDoc comments
+// TODO: All all of the required JavaDoc (i.e., multi-line) comments
 
 public class CommandLineGeometer {
 
